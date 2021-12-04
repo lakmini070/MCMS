@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/******* fonts *********/
+@import url('../fonts/stylesheet_century.css');
+@import url('../fonts/stylesheet_sinhala.css');
+/******* fonts *********/
+
+body{
+    font-family: 'Century Gothic' !important;
+}
+
+.main_div{
+	width: 1025px;
+	height: 1404px;
+    margin: 0px;
+    padding: 0px;
+    background: url(../images/top_bg.png);
+    background-repeat: no-repeat;
+	background-position: top;
+	background-size: contain;
+	border: 1px solid #c5c5c5;
+	display: flex;
+  flex-direction: column;
+}
+
+.career_img{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	margin-top: 30px;
+}
+
+.top_logo{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+.sub_div{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	height: auto;
+}
+
+.footer{
+	height: auto;
+	  width: 100%;
+	  background: #000000;
+	  margin-top: auto;
+	color: #ffffff;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 13px;
+}

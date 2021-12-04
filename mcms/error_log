@@ -1,0 +1,9 @@
+[01-Jun-2021 13:59:13 Asia/Colombo] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: ci_sessions) in /home/tek2/public_html/mcms/system/libraries/Session/Session.php on line 143
+[01-Jun-2021 13:59:17 Asia/Colombo] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: ci_sessions) in /home/tek2/public_html/mcms/system/libraries/Session/Session.php on line 143
+[01-Jun-2021 13:59:27 Asia/Colombo] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: ci_sessions) in /home/tek2/public_html/mcms/system/libraries/Session/Session.php on line 143
+[01-Jun-2021 14:00:04 Asia/Colombo] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: ci_sessions) in /home/tek2/public_html/mcms/system/libraries/Session/Session.php on line 143
+[01-Jun-2021 14:00:13 Asia/Colombo] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: ci_sessions) in /home/tek2/public_html/mcms/system/libraries/Session/Session.php on line 143
+[01-Jun-2021 14:00:15 Asia/Colombo] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: ci_sessions) in /home/tek2/public_html/mcms/system/libraries/Session/Session.php on line 143
+[01-Jun-2021 14:00:17 Asia/Colombo] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: ci_sessions) in /home/tek2/public_html/mcms/system/libraries/Session/Session.php on line 143
+[01-Jun-2021 14:00:41 Asia/Colombo] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: ci_sessions) in /home/tek2/public_html/mcms/system/libraries/Session/Session.php on line 143
+[01-Jun-2021 14:00:46 Asia/Colombo] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: ci_sessions) in /home/tek2/public_html/mcms/system/libraries/Session/Session.php on line 143

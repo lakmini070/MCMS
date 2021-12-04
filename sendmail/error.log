@@ -1,0 +1,17 @@
+21/09/20 01:37:48 : The recipient address <..@localhost> is not a valid RFC-5321 address. w142sm12049411pfc.47 - gsmtp<EOL>
+21/09/20 01:44:45 : Message is missing recipient's address
+21/09/22 13:06:31 : Socket Error # 11001<EOL>Host not found.
+21/09/25 23:09:34 : Socket Error # 10065<EOL>No route to host.
+21/09/25 23:23:23 : Socket Error # 10065<EOL>No route to host.
+21/09/25 23:29:33 : Socket Error # 10065<EOL>No route to host.
+21/09/25 23:32:57 : Socket Error # 10065<EOL>No route to host.
+21/10/21 23:02:24 : Socket Error # 11001<EOL>Host not found.
+21/10/21 23:04:09 : Socket Error # 11001<EOL>Host not found.
+21/10/21 23:37:24 : Socket Error # 11001<EOL>Host not found.
+21/11/04 20:14:45 : Socket Error # 11001<EOL>Host not found.
+21/11/07 16:51:34 : Message is missing recipient's address
+21/11/07 16:58:35 : Message is missing recipient's address
+21/11/07 17:00:23 : Message is missing recipient's address
+21/11/07 17:05:29 : Message is missing recipient's address
+21/11/07 17:07:31 : The recipient address <..@localhost> is not a valid RFC-5321 address.<EOL>Learn more at<EOL> https://support.google.com/mail/answer/6596 x135sm4971915pfd.78 - gsmtp<EOL>
+21/11/07 17:14:31 : The recipient address <..@localhost> is not a valid RFC-5321 address.<EOL>Learn more at<EOL> https://support.google.com/mail/answer/6596 na15sm14767513pjb.31 - gsmtp<EOL>
